@@ -8,7 +8,7 @@
         center: [-114.34411, 32.6141],
         pitch: 85,
         bearing: 80,
-        style: 'mapbox://styles/600mt/ckjfva6rpnkzb19qt5i0qw8sx'
+        style: 'mapbox://styles/600mt/ckjg5dn1aenj419p311p59eoz'
     });
 
     map.on('load', function () {
